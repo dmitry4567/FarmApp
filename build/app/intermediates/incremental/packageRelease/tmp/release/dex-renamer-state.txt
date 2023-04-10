@@ -1,0 +1,4 @@
+#Thu Mar 31 23:52:31 MSK 2022
+base.0=C\:\\Users\\dimon\\Desktop\\farm_app3\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
